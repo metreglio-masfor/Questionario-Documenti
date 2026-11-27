@@ -1,6 +1,6 @@
 /* Service worker: tiene l'app in memoria sul dispositivo per usarla senza connessione.
    Per distribuire una nuova versione basta cambiare VERSIONE: i tablet vedranno «Aggiorna». */
-const VERSIONE = 'sopralluoghi-1.0.0';
+const VERSIONE = 'dory-1.1.0';
 const FILE = [
   './',
   './index.html',

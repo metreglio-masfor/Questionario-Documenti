@@ -1,17 +1,32 @@
 {
-  "name": "Sopralluoghi MASFOR",
-  "short_name": "Sopralluoghi",
-  "description": "Questionari di sopralluogo QVRB e QCA, utilizzabili offline, con generazione del PDF.",
+  "name": "Dory – Smart Form",
+  "short_name": "Dory",
+  "description": "Dory: questionari di sopralluogo QVRB e QCA, utilizzabili offline, con generazione del PDF.",
   "lang": "it",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",
-  "theme_color": "#22428a",
+  "theme_color": "#2A80B9",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
